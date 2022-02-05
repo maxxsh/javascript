@@ -58,7 +58,7 @@ export function twoIsSpecial(deck) {
 }
 
 /**
- * Returns a perfectly order deck from lowest to highest.
+ * Returns a perfectly ordered deck from lowest to highest.
  *
  * @param {number[]} deck shuffled deck
  *
